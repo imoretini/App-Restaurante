@@ -1,0 +1,57 @@
+
+.body{
+    background-color: black;
+    }
+
+.card{
+    background-color: rgb(241, 234, 223);
+    box-shadow: 10px 10px 10px black;
+    width:350px;
+    margin: auto;
+}
+
+.topo{
+    text-align: center;
+    background-color: rgb(157, 116, 104);
+    color: white;
+    padding: 3%;
+    border-radius: 3%;
+    box-shadow: 10px 10px 10px black;
+    text-shadow: 3px 3px 5px black;
+
+    
+}
+
+.produto{
+    margin: 0px 0px 0px 0px;
+    width: 100%;
+    border-radius: 3%;
+    background-color: rgb(227, 196, 189);
+    text-align: justify;
+    margin: auto;
+    box-shadow: 10px 10px 10px black;
+}
+
+.produto:hover{
+    font-size: larger;
+    transform: scale(1.2);
+    background-color: rgb(193, 141, 130);
+}
+
+.dados{
+    text-align: center;
+    box-shadow: 10px 10px 10px black;
+    background-color: rgb(227, 196, 189);
+}
+
+.botao{
+
+    text-align: center;
+    width: 100%;
+    box-shadow: 10px 10px 10px black;
+    background-color: rgb(227, 196, 189);
+}
+.botao:hover{
+    font-size: larger;
+    transform: scale(1.2);
+}
